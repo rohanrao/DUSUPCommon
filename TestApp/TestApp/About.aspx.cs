@@ -13,5 +13,10 @@ namespace TestApp
         {
 
         }
+        
+        public static void test()
+        {
+            
+        }
     }
 }
