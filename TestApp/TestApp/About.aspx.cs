@@ -18,5 +18,10 @@ namespace TestApp
         {
             
         }
+
+        public static string App()
+        {
+            return "hello";
+        }
     }
 }
